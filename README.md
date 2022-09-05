@@ -1,2 +1,3 @@
-# tm-utilities
-Utility Tools for Twinmotion
+# TM Utilities
+
+The Utility Tools for Twinmotion
